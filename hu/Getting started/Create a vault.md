@@ -24,6 +24,6 @@ Ha már van egy mappád, amelyet tárolóként szeretnél használni:
 2. A fájlkezelőben válaszd ki azt a mappát, amelyet tárolóként szeretnél használni.
 3. Kattints a **Megnyitás** gombra.
 
-Ha többet szeretnél megtudni arról, hogyan működnek a tárolók, olvasd el: [How Obsidian stores data](Hogyan tárolja az Obsidian az adatokat).
+Ha többet szeretnél megtudni arról, hogyan működnek a tárolók, olvasd el: [[How Obsidian stores data|Hogyan tárolja az Obsidian az adatokat]].
 
-Most, hogy beállítottad a tárolódat, készen állsz az első jegyzeted létrehozására: [Create your first note](Első jegyzet létrehozása).
+Most, hogy beállítottad a tárolódat, készen állsz az első jegyzeted létrehozására: [[Create your first note|Első jegyzet létrehozása]].
