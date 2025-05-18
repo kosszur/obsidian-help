@@ -17,7 +17,7 @@ Az Obsidian jegyzeteket sima szövegként tárolja. Ez azt jelenti, hogy az adat
 
 ## Szöveg formázása
 
-Az Obsidian támogatja a [Basic formatting syntax](Markdown) szintaxist, amely lehetővé teszi, hogy félkövér, dőlt szöveget, hivatkozásokat és címsorokat adj a jegyzeteidhez.
+Az Obsidian támogatja a [[Basic formatting syntax|Markdown]] szintaxist, amely lehetővé teszi, hogy félkövér, dőlt szöveget, hivatkozásokat és címsorokat adj a jegyzeteidhez.
 
 1. Másold és illeszd be az alábbi szöveget az Obsidian jegyzet tetejére:
 
@@ -27,10 +27,10 @@ Az Obsidian támogatja a [Basic formatting syntax](Markdown) szintaxist, amely l
 
 2. A jegyzetben válaszd ki bármelyik szöveget, majd nyomd meg a `Ctrl+B` (vagy macOS-en `Cmd+B`) billentyűkombinációt, hogy félkövérré tedd.
 
-Ha többet szeretnél megtudni a Markdown szintaxisról, olvasd el a [Basic formatting syntax](Alapvető formázási szintaxis) súgót.
+Ha többet szeretnél megtudni a Markdown szintaxisról, olvasd el a [[Basic formatting syntax|Alapvető formázási szintaxis]] súgót.
 
 ## További információ
 
-Ismerd meg, hogyan lehet jegyzeteket [Link notes](összekapcsolni), hogy egy hálózatot építs összefüggő gondolatokból.
+Ismerd meg, hogyan lehet jegyzeteket [[Link notes|összekapcsolni]], hogy egy hálózatot építs összefüggő gondolatokból.
 
-Érdemes megnézni a [Sandbox vault](Sandbox tárolót) is, hogy felfedezd az alkalmazás további funkcióit.
+Érdemes megnézni a [[Sandbox vault|Sandbox tárolót]] is, hogy felfedezd az alkalmazás további funkcióit.
