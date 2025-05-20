@@ -10,10 +10,9 @@ permalink: /
 ---
 # Obsidian Súgó
 
-Üdvözlünk az Obsidian hivatalos súgóoldalán, ahol tippeket és útmutatókat találhatsz az [Obsidian](https://obsidian.md) használatához.  
-Az API dokumentációért látogass el az [Obsidian fejlesztői dokumentációhoz](https://docs.obsidian.md/).
+Üdvözlünk az Obsidian hivatalos súgóoldalán, ahol tippeket és útmutatókat találhatsz az [Obsidian](https://obsidian.md) használatához. Az API dokumentációért látogass el az [Obsidian fejlesztői dokumentációhoz](https://docs.obsidian.md/).
 
-Ezt az oldalt **több nyelven** is böngészheted:
+Ezt az oldalt több nyelven is böngészheted:
 
 <select class="dropdown select-location">
 <option value="">English</option>
