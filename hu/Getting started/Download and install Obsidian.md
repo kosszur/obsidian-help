@@ -15,7 +15,7 @@ Az Obsidian elérhető minden jelentős asztali és mobil platformon. Az alábbi
 1. Nyisd meg a böngészőt, és látogasd meg a [Download Obsidian](https://obsidian.md/download) weboldalt.
 2. A **macOS** szekció alatt kattints a **Universal** lehetőségre a telepítő fájl letöltéséhez.
 3. Nyisd meg a telepítő fájlt.
-4. A megnyíló ablakban húzd az Obsidian alkalmazást az **Applications** mappába.
+4. A megnyíló ablakban húzd az Obsidian alkalmazást az Applications mappába.
 5. Indítsd el az Obsidian-t ugyanúgy, mint bármelyik másik alkalmazást.
 
 ## Obsidian telepítése Linuxra
