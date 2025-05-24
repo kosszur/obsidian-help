@@ -28,7 +28,7 @@ Ha több eszközön használod a szinkronizálást, válassz ki **egy eszközt**
 
 Bár az Obsidian csapat hivatalosan nem ajánl egyetlen bővítményt sem, két közösségi bővítmény különösen népszerűvé vált a felhasználók körében a fájlok biztonsági mentésére:
 
-- **[Obsidian Git](https://obsidian.md/plugins?id=obsidian-git):** Használd ezt a bővítményt a tárolód mentéséhez, amely a tartalmát egy [GitHub](https://github.com/) tárba küldi. Ez egy hatékony módja annak, hogy verziókezelést alkalmazz a jegyzeteidre, és biztosítsd azok biztonságát egy távoli szerveren. Azonban vedd figyelembe, hogy az adataidat a GitHub fogja tárolni [[#Use cloud-based services|ezzel a módszerrel]].
+- **[Obsidian Git](https://obsidian.md/plugins?id=obsidian-git):** Használd ezt a bővítményt a tárolód mentéséhez, amely a tartalmát egy [GitHub](https://github.com/) tárba küldi. Ez egy hatékony módja annak, hogy verziókezelést alkalmazz a jegyzeteidre, és biztosítsd azok biztonságát egy távoli szerveren. Azonban vedd figyelembe, hogy az adataidat a GitHub fogja tárolni [[#Felhő alapú szolgáltatások használata|ezzel a módszerrel]].
 - **[Local Backup](https://obsidian.md/plugins?id=local-backup):** Ez a bővítmény lehetővé teszi, hogy helyi másolatokat készíts a tárolódról egy választott mappában, amely archiválási lehetőségeket is kínál. Akár egy szinkronizáló mappát, például egy Dropbox mappát is használhatsz, hogy kombináld a helyi és felhő alapú mentéseket. Ez a módszer **jól működik** az alábbi mentési opciókkal.
 
 ## Felhő alapú szolgáltatások használata
@@ -41,11 +41,9 @@ Biztonsági szempontból mindig figyelj az adataid elérésére és védelmére 
 
 ## Külső meghajtók használata
 
-**Merevlemezek és SSD meghajtók**  
-A külső merevlemezes biztonsági mentések továbbra is értékesek a növekvő felhőalapú világban, és főként adattárolásra és számítógépes biztonsági mentésekre használatosak. A külső meghajtók legnagyobb hátránya, hogy meghibásodhatnak vagy elveszhetnek. A legnagyobb előnyük viszont, hogy a tárhelyet csak egyszer kell megvásárolni. A külső merevlemezek használata gyakran kombinálható egy [[#Use computer backups|számítógépes biztonsági mentéssel]].
+**Merevlemezek és SSD meghajtók**  A külső merevlemezes biztonsági mentések továbbra is értékesek a növekvő felhőalapú világban, és főként adattárolásra és számítógépes biztonsági mentésekre használatosak. A külső meghajtók legnagyobb hátránya, hogy meghibásodhatnak vagy elveszhetnek. A legnagyobb előnyük viszont, hogy a tárhelyet csak egyszer kell megvásárolni. A külső merevlemezek használata gyakran kombinálható egy [[#Use computer backups|számítógépes biztonsági mentéssel]].
 
-**USB flash meghajtók**  
-Az USB-meghajtók (más néven pendrive-ok, memóriakártyák vagy kulcsmeghajtók) egyszerű és hatékony módszert kínálnak a gyors biztonsági mentésekhez.
+**USB flash meghajtók**  Az USB-meghajtók (más néven pendrive-ok, memóriakártyák vagy kulcsmeghajtók) egyszerű és hatékony módszert kínálnak a gyors biztonsági mentésekhez.
 
 1. Csatlakoztasd az USB-meghajtót a számítógépedhez vagy laptopodhoz.
 2. Győződj meg róla, hogy az eszköz felismeri és csatlakoztatja a fájlrendszeredhez. Ha szükséges, formázd az USB-meghajtót úgy, hogy kompatibilis legyen a fájlrendszereddel.
